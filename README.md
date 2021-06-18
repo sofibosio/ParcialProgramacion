@@ -1,4 +1,5 @@
-![Captura de pantalla (2)](https://user-images.githubusercontent.com/83315050/122623695-7e142d00-d073-11eb-94c8-aadb0a90329f.png)
+
+![Captura de pantalla (2)](https://user-images.githubusercontent.com/83315050/122623740-adc33500-d073-11eb-9bc7-5baffdd47bdf.png)
 # ParcialProgramacion
 
 Crear un proyecto:
