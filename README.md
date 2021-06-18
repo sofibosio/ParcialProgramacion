@@ -1,5 +1,4 @@
 
-![Captura de pantalla (2)](https://user-images.githubusercontent.com/83315050/122623740-adc33500-d073-11eb-9bc7-5baffdd47bdf.png)
 # ParcialProgramacion
 
 Crear un proyecto:
@@ -62,6 +61,9 @@ sequelize model:generate --name OrderDetail --attributes quantity:decimal,subtot
 sequelize model:generate --name UserRole --attributes user_id:integer,role_id:integer
 
 -------------------------------
-La migracion quedaria asi:
 
-Modelo PRODUCT
+Para hacer la migracion se tiene que poner el comando
+
+sequelize db:migrate
+
+![Captura de pantalla (2)](https://user-images.githubusercontent.com/83315050/122623801-ec58ef80-d073-11eb-86a1-8bbc72a83091.png)
