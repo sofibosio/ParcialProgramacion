@@ -1,3 +1,4 @@
+![Captura de pantalla (2)](https://user-images.githubusercontent.com/83315050/122623695-7e142d00-d073-11eb-94c8-aadb0a90329f.png)
 # ParcialProgramacion
 
 Crear un proyecto:
@@ -60,6 +61,6 @@ sequelize model:generate --name OrderDetail --attributes quantity:decimal,subtot
 sequelize model:generate --name UserRole --attributes user_id:integer,role_id:integer
 
 -------------------------------
-La migracion quedaria asi: 
+La migracion quedaria asi:
 
 Modelo PRODUCT
